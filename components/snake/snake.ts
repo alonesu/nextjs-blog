@@ -8,7 +8,7 @@ export default class Snake {
     this.snake = snake;
     this.snakeHead = snakeHead;
     this.bodies = this.snake.children;
-    console.log(this.bodies);
+    // console.log(this.bodies);
 
   }
   // 获取蛇的x轴坐标
