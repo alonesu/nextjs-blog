@@ -249,6 +249,9 @@ export default function Home({ allPostsData }) {
             </li>
           ))}
         </ul>
+        <Link href='/snake'>
+          <a>Snake game</a>
+        </Link>
       </section>
     </Layout>
   )
